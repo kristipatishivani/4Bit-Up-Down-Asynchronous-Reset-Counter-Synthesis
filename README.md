@@ -68,9 +68,9 @@ used.
 #### Area report:
 ![WhatsApp Image 2024-11-18 at 13 08 24_81db892c](https://github.com/user-attachments/assets/bdea9096-e782-4242-a033-17de81f1ff07)
 #### Power Report:
-![Uploading WhatsApp Image 2024-11-18 at 13.07.30_56751ac8.jpg…]()
+![WhatsApp Image 2024-11-18 at 13 07 30_f9f087a4](https://github.com/user-attachments/assets/782a8d23-7b4f-41eb-8c08-76081d32269a)
 #### Timing Report: 
-![Uploading WhatsApp Image 2024-11-18 at 13.08.54_05239655.jpg…]()
+![WhatsApp Image 2024-11-18 at 13 08 54_e2b7a4bb](https://github.com/user-attachments/assets/c7de1f92-241a-4775-9b1e-dbf65760544d)
 #### Result: 
 The generic netlist has been created, and area, power, and timing reports have been tabulated and generated using Genus.
 
