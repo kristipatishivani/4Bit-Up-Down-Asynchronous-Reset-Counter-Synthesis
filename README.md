@@ -1,5 +1,5 @@
-# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 # Exp-4
+# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
