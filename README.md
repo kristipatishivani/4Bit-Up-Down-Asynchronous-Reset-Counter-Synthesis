@@ -63,24 +63,7 @@ used.
 • The tool used for Synthesis is “Genus”. Hence, type “genus -gui” to open the tool.
 
 • Genus Script file with .tcl file Extension commands are executed one by one to synthesize the netlist.
-# Programe
-# counter.v
-````
-timescale 1ns / 1 ns
-module counter(clk,m,rst,count);
-input clk,m,rst;
-output reg [3:0] count;
-always@(posedge clk or negedge rst)
-begin
-if (!rst)
-count=0;
-else if(m)
-count=count+1;
-else
-count=count-1;
-end
-endmodule
-```
+
 
 
 #### Synthesis RTL Schematic :
