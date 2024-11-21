@@ -104,8 +104,9 @@ write_hdl > counter_netlist.v
 write_sdc > output_constraints.sdc 
 
 gui_show
-
 ```
+
+
 sdc1.t
 ```
 create_clock -name clk -period 2 -waveform {0 1} [get_ports "clk"]
@@ -115,6 +116,8 @@ set_clock_uncertainty 0.01 [get_ports "clk"]
 set_input_delay -max 0.8 [get_ports "rst"] -clock [get_clocks "clk"]
 set_output_delay -max 0.8 [get_ports "count"] -clock [get_clocks "clk"]
 ```
+
+
 
 #### Synthesis RTL Schematic :
 ![WhatsApp Image 2024-11-18 at 13 07 08_63d578d0](https://github.com/user-attachments/assets/a5c6d641-3bc1-4ae9-a33b-b195a42df4b7)
