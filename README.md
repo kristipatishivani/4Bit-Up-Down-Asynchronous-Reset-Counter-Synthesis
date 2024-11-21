@@ -103,9 +103,7 @@ report_gates > counter_gates.txt
 
 write_hdl > counter_netlist.v
 write_sdc > output_constraints.sdc 
-
 gui_show
-
 ```
 # sdc1.t
 ```
